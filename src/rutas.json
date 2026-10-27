@@ -1,0 +1,43 @@
+[
+	{
+		"nombreEspia1":"Misato",
+		"nombreEspia2":"Shinji",
+		"probabilidadInterceptacion":0.5
+	},
+
+	{
+		"nombreEspia1":"Shinji",
+		"nombreEspia2":"Asuka",
+		"probabilidadInterceptacion":0.2
+	},
+	
+	{
+		"nombreEspia1":"Juan",
+		"nombreEspia2":"Asuka",
+		"probabilidadInterceptacion":0.4
+	},
+	
+	{
+		"nombreEspia1":"Pablo",
+		"nombreEspia2":"Juan",
+		"probabilidadInterceptacion":0.6
+	},
+	
+	{
+		"nombreEspia1":"Pablo",
+		"nombreEspia2":"Misato",
+		"probabilidadInterceptacion":0.1
+	},
+	
+	{
+		"nombreEspia1":"Fran",
+		"nombreEspia2":"Asuka",
+		"probabilidadInterceptacion":0.3
+	},
+	
+	{
+		"nombreEspia1":"Shinji",
+		"nombreEspia2":"Fran",
+		"probabilidadInterceptacion":0.0
+	}
+]

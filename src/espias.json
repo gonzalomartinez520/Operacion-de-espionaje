@@ -1,0 +1,38 @@
+[
+	{
+	"nombre":"Misato",
+	"latitud": -34.460,
+	"longitud":-58.640
+	},
+	
+	{
+	"nombre":"Shinji",
+	"latitud": -34.500,
+	"longitud":-58.725
+	},
+	
+	{
+	"nombre":"Asuka",
+	"latitud": -34.556,
+	"longitud":-58.810
+	},
+	
+	{
+	"nombre":"Juan",
+	"latitud": -34.490,
+	"longitud":-58.809
+	},
+	
+	{
+	"nombre":"Pablo",
+	"latitud": -34.470,
+	"longitud":-58.740
+	},
+	
+	{
+	"nombre":"Fran",
+	"latitud": -34.560,
+	"longitud":-58.740
+	}
+]	
+
