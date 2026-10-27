@@ -9,9 +9,10 @@ Minijuego desarrollado en Java utilizando Swing, WindowBuilder, Gson y JMapViewe
 - Bibliotecas necesarias para su ejecución.
 
 **Instrucciones**
-1. Descargar el archivo ZIP.
-2. Extraer su contenido.
-3. Tener Java instalado.
-4. Ejecutar `ejecutar.bat` desde la carpeta extraída.
+1. Ir a `Releases`.
+2. Descargar el archivo ZIP.
+3. Extraer su contenido.
+4. Tener Java instalado.
+5. Ejecutar `ejecutar.bat` desde la carpeta extraída.
 
 Esta distribución incluye los archivos necesarios para ejecutar el minijuego en Windows.
